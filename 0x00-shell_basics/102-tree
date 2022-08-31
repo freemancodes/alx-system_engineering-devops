@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p window/to/school
+mkdir -p /window/to/school
